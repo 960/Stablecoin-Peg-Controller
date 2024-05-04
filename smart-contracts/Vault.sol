@@ -33,3 +33,5 @@ contract EnterpriseYieldVault is ReentrancyGuard, Ownable {
         emit Withdrawn(msg.sender, amount);
     }
 }
+
+// Hash 8043
